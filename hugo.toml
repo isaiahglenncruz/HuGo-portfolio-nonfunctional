@@ -1,3 +1,23 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'GANG GANG GANG WHOLE LOTTA GANG SHIT'
+
+theme = 'SimpleIntro'
+[params]
+    name = "Isaiah Cruz"
+    mainTitle = "Hoe"
+    mainText = "this hoe"
+
+[menus]
+    [[menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "#about"
+    [[menu.main]]
+        identifier = "skills"
+        name = "Skills"
+        url = "#skills"
+    [[menu.main]]
+        identifier = "projects"
+        name = "Projects"
+        url = "#projects"
