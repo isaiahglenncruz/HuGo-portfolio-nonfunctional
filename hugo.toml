@@ -1,23 +1,23 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'GANG GANG GANG WHOLE LOTTA GANG SHIT'
+title = 'Isaiah Glenn Cruz'
 
 theme = 'SimpleIntro'
 [params]
     name = "Isaiah Cruz"
-    mainTitle = "Hoe"
-    mainText = "this hoe"
+    mainTitle = " "
+    mainText = "Actively seeking opportunities for employment and open to work."
 
 [menus]
     [[menu.main]]
         identifier = "about"
-        name = "About"
+        name = "ABOUT ME"
         url = "#about"
     [[menu.main]]
         identifier = "skills"
-        name = "Skills"
+        name = "SKILLS"
         url = "#skills"
     [[menu.main]]
         identifier = "projects"
-        name = "Projects"
+        name = "PROJECTS"
         url = "#projects"
