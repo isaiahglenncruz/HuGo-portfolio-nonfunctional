@@ -1,6 +1,28 @@
 [[list]]
-    name = "fucc"
-    icon= "ttps://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg"
+    name = "Python"
     text = """
-        i'm Him
+        Started as my first programming language in an introductory course in my freshman year of high school. Continued use of Python in university with applications focused on ML/AI concepts including batch processing, deep learning, heuristics, and searching tasks. 
+    """
+
+[[list]]
+    name = "Amazon Web Services"
+    text = """The primary focus of technical knowledge that I have obtained through late 2022 and 2023. Obtained the foundational-level Certified Cloud Practitioner certification in February 2023, and currently working towards the associate-level Certifiied Developer certification. Specifically interested in applications of AWS concerning automation, serverless databases, and usage of isolated applications.
+    """
+
+[[list]]
+    name = "C++"
+    text = """
+        3 years of experience obtained in university with extensive coverage of concurrency, resource usage synchronization, and object-oriented programming/design. 
+    """
+
+[[list]]
+    name = "Java"
+    text = """
+        1 year of experience, took time post-undergrad to enrich knowledge of object-oriented programming and design.
+    """
+
+[[list]]
+    name = "HTML5/CSS"
+    text = """
+        Extensive experience gained from my freshman year of high school throughout university. Remained consistent with HTML5/CSS usage through the Py4Web web development framework and Hugo static site generator. This portfolio was designed and developed through Hugo.
     """

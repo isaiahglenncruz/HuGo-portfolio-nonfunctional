@@ -19,5 +19,5 @@ theme = 'SimpleIntro'
         url = "#skills"
     [[menu.main]]
         identifier = "projects"
-        name = "PROJECTS"
-        url = "#projects"
+	name = "PROJECTS"
+	url = '#projects'

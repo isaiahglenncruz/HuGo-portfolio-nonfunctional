@@ -1,8 +1,36 @@
 [[list]]
-    title = "lorem"
+    title = "QueueUp"
     text = """
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-        Voluptatibus quia, nulla! Maiores et perferendis eaque,
-        exercitationem praesentium nihil.
+        The project that fulfilled the capstone-level graduation requirement at UC Santa Cruz. As a team of three, 
+        utilized knowledge of HTML5, CSS, JavaScript, relational databases, the Py4Web web development framework, and Vue.js 
+        to create a dynamic website that would aid gamers in finding potential teammates. Utilized a chat system, purely 
+        developed in JavaScript without the use of socket architecture or virtual machines. 
     """
 
+[[list]]
+    title = "PacMan Agent"
+    text = """
+        Became the major source of inspiration for my interest in utilizing serverless databases for activities 
+        concerning machine learning and artificial intelligence. The finished project did not feature explicit serverless 
+        computations. Initial attempts to create the resulting self-playing PacMan and PacMan Ghost entities were centered around 
+        the usage of deep learning models to create optimal sequences of actions as database entries. The finished units of artifical 
+        intelligence used a more simple approach with heuristics to reflexively decide on actions to take.
+    """
+
+[[list]]
+    title = "Coder One Hackathon - Ultimate Volleyball"
+    text = """
+        As a participant in a public, online, one-week hackathon, utilized knowledge of deep learning and reinforcement learning 
+        techniques to teach a unit of artifical intelligence how to play volleyball. Also gained knowledge of the Unity framework. 
+        Learned about the necessity of time management when working with huge batches of data - billions of dataset entries were expected to 
+        be processed through personal, non-virtual machines.
+    """
+
+[[list]]
+    title = "Gassed Up"
+    text = """
+        Currently designing and developing an app to provide analytics for gas prices across the United States with Amazon Athena. 
+        Slowly designing this application as study for the Associate-level Certified Developer AWS certification, 
+        as many concepts required for the exam require hands-on practice that is most commonly obtainable through entry- and 
+        junior- level positions in IT and software development.
+    """
