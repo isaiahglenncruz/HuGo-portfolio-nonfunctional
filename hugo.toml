@@ -11,13 +11,5 @@ theme = 'SimpleIntro'
 [menus]
     [[menu.main]]
         identifier = "about"
-        name = "ABOUT ME"
-        url = "#about"
-    [[menu.main]]
-        identifier = "skills"
-        name = "SKILLS"
-        url = "#skills"
-    [[menu.main]]
-        identifier = "projects"
-	name = "PROJECTS"
-	url = '#projects'
+        name = "Resume and Contact"
+        url = "https://docs.google.com/document/export?format=docx&id=1VuvegJZgJn_F84fvN7oZTW0hSKncHsrJcuM9izDwsHc"

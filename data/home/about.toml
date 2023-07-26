@@ -1,3 +1,10 @@
 title = "Hello, I'm Isaiah."
 
-text = "I currently work as a part-time Patient Care Coordinator at an optometry office. In my time spent after graduating from the University of California, Santa Cruz, I have been able to take time to improve in the professional and personal spects of my life while continuing to gain technical knowledge through certain certifications and other instances of self-study. Scroll down to learn more about my background and access my contact information!"
+text = """\
+I currently work as a part-time Patient Care Coordinator at an optometry office. \
+In my time spent after graduating from the University of California, Santa Cruz, \
+I have been able to take time to improve in the professional and personal spects of \
+my life while continuing to gain technical knowledge through certain certifications \
+and other instances of self-study while overcoming carpal tunnel in my left hand. \
+Feel free to scroll down to learn more about \
+some of the specifics of my resume!"""

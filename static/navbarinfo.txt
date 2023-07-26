@@ -1,0 +1,13 @@
+[menus]
+    [[menu.main]]
+        identifier = "about"
+        name = "ABOUT ME"
+        url = "#about"
+    [[menu.main]]
+        identifier = "skills"
+        name = "SKILLS"
+        url = "#skills"
+    [[menu.main]]
+        identifier = "projects"
+	    name = "PROJECTS"
+	    url = '#projects'
