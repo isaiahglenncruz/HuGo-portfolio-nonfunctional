@@ -1,6 +1,6 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'Isaiah Glenn Cruz'
+title = ''
 
 theme = 'SimpleIntro'
 [params]
@@ -11,5 +11,5 @@ theme = 'SimpleIntro'
 [menus]
     [[menu.main]]
         identifier = "about"
-        name = "Resume and Contact"
+        name = "Resume, Contact Info, and Important Links"
         url = "https://docs.google.com/document/export?format=docx&id=1VuvegJZgJn_F84fvN7oZTW0hSKncHsrJcuM9izDwsHc"
