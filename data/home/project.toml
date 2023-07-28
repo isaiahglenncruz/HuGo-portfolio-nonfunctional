@@ -30,7 +30,6 @@
     title = "Gassed Up"
     text = """
         Currently designing and developing an app to provide analytics for gas prices across the United States with Amazon Athena. 
-        Slowly designing this application as study for the Associate-level Certified Developer AWS certification, 
-        as many concepts required for the exam require hands-on practice that is most commonly obtainable through entry- and 
-        junior- level positions in IT and software development.
+        Slowly designing this application as study for the Associate-level Certified Developer AWS certification. Currently in the middle 
+        of experimentation with AWS Lambda's serverless computing tools as a processing method for database entries queued by AWS Athena.
     """
