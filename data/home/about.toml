@@ -4,9 +4,8 @@ text = """\
 I currently work as a part-time Patient Care Coordinator at an optometry office. \
 In my time spent after graduating from the University of California, Santa Cruz, \
 I have been able to take time to improve in the professional and personal spects of \
-my life while continuing to gain technical knowledge while overcoming carpal tunnel in my left hand. \
+my life while continuing to gain technical knowledge. \
 My interests currently lie in the intersection of machine learning and cloud computing. \
 I am looking to gain more knowledge about the ethics of cloud computing as it becomes \
 more ubiquitous. \
-Feel free to scroll down to learn more about \
-some of the specifics of my resume!"""
+Below are some of the specifics of my resume."""
